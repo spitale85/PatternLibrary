@@ -1,4 +1,6 @@
-﻿namespace AdapterPattern.Text
+﻿using AdapterPattern.Text;
+
+namespace AdapterPattern.Text
 {
     public class TextNotificationAdapter : INotificationAdapter
     {

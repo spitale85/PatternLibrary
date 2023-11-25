@@ -1,4 +1,4 @@
-﻿namespace AdapterPattern.Sms
+﻿namespace AdapterPattern.Text
 {
     public interface ITextSender
     {
